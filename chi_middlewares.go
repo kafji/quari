@@ -1,5 +1,4 @@
-// Package logger provides slog-backed log formatter for chi.
-package logger
+package quari
 
 import (
 	"net/http"
